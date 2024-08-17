@@ -71,6 +71,5 @@
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Karanjeet Singh's streak" src="https://streak-stats.demolab.com/?user=Karanjeet-surepass&theme=dracula&hide_border=true"/>
     </a>
   </p>
-
-  <img alt="Karanjeet Singh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Karanjeet-surepass&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img alt="Karanjeet Singh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Karanjeet-surepass&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
 </details>
