@@ -23,7 +23,6 @@
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p>
 
